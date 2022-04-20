@@ -28,8 +28,6 @@
                     }
                 }
             }
-
-            Console.WriteLine($"Duration: {stopWatch?.Duration.ToString("hh':'mm':'ss")}");
         }
 
         private static int GetUserInput() {
